@@ -25,6 +25,8 @@ or simply :
 ```python
 >>> from unmotparjour import UnMotParJour
 >>> print( UnMotParJour() )
+```
+```
 # Théobromine
 
 Nom féminin.
